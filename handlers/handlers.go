@@ -5,8 +5,8 @@ import (
 
 	"net/http"
 
-	. "../dataloaders"
-	. "../models"
+	. "app/dataloaders"
+	. "app/models"
 )
 
 func Run() {
